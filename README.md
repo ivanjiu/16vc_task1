@@ -1,7 +1,14 @@
 Solution:
+created a peer to peer backend api by hosting and serving from localhost:3000.
+each bullet point was solved and tested via example below.
+
 
 
 Process:
+1. used express framework with node.js
+2. wrote modular code by seperating functionalities of database and routes
+3. code allows for scalability by creating new folder for books and gadgets if needed
+
 
 
 Test:
